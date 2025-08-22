@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class e__inputOutput {
+public class d__inputOutput {
     public static void main(String[] args) {
         
         // 1. Printing Output
