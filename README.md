@@ -7,12 +7,12 @@ Whether you’re just starting out or brushing up your skills, this repo will gu
 <b>🎯 Roadmap :</b>
 
 <ul>This repo will grow into a complete Core Java Learning Series:
-🔹 Part 1 – Basics (✅ Completed)
-🔹 Part 2 – Conditionals & Loops
-🔹 Part 3 – Arrays & Strings
-🔹Part 4 – Functions & Methods
-🔹 Part 5 – Object-Oriented Programming (OOP)
-🔹 Part 6 – Advanced Java Concepts </ul>
+<li>🔹 Part 1 – Basics (✅ Completed)</li>
+<li>🔹 Part 2 – Conditionals & Loops</li>
+<li>🔹 Part 3 – Arrays & Strings</li>
+<li>🔹Part 4 – Functions & Methods</li>
+<li>🔹 Part 5 – Object-Oriented Programming (OOP)</li>
+<li>🔹 Part 6 – Advanced Java Concepts </li></ul>
 
 <b>📘 Topics Covered (Part 1 – Basics) : </b>
 <ul>
