@@ -1,4 +1,4 @@
-public class variables {
+public class b__variables {
     public static void main (String[] args) {
         
         // 1. Primitive Data types

@@ -1,4 +1,4 @@
-public class dataTypes {
+public class d__dataTypes {
      public static void main(String[] args) {
         
         // 1. Integer Types
