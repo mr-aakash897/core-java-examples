@@ -1,3 +1,4 @@
+package b__operations;
 import java.util.Scanner;
 
 public class f__bitwiseOperations {

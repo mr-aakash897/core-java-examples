@@ -1,3 +1,4 @@
+package b__operations;
 import java.util.Scanner;
 
 public class e__assignmentOperations {
