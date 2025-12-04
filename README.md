@@ -50,6 +50,10 @@ Fully explained advanced topics will be added soon:<br>
 ├── g__arrays<br>
 └── h__strings<br>
 
+## 🛠 How to Run Programs
+Compile:<br> javac FileName.java
+Run:<br> java FileName
+
 ## 🤝 Contributing :
 <li>Want to add your own examples or improve code formatting?</li>
 <li>Feel free to fork this repo, make changes, and submit a pull request 💡.</li>
