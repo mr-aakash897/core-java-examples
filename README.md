@@ -4,35 +4,50 @@ This repository is a collection of well-structured Java programs that cover ever
 
 Whether you’re just starting out or brushing up your skills, this repo will guide you step by step with simple examples and real-world use cases.
 
-<b>🎯 Roadmap :</b>
+## 🚀 Features
 
-<ul>This repo will grow into a complete Core Java Learning Series:
-<li>🔹 Part 1 – Basics (✅ Completed)</li>
-<li>🔹 Part 2 – Conditionals & Loops</li>
-<li>🔹 Part 3 – Arrays & Strings</li>
-<li>🔹Part 4 – Functions & Methods</li>
-<li>🔹 Part 5 – Object-Oriented Programming (OOP)</li>
-<li>🔹 Part 6 – Advanced Java Concepts </li></ul>
+✔ Beginner-friendly programs<br>
+✔ Every file includes proper explanations & comments<br>
+✔ Covers all Core Java fundamentals<br>
+✔ Organized folder-wise for easy navigation<br>
+✔ Useful for students, placements, Java practice & revision<br>
 
-<b>📘 Topics Covered (Part 1 – Basics) : </b>
-<ul>
-<li>✅ Hello World Program – Printing your first line of code.</li>
-<li>✅ Variables – Declaring and initializing variables.</li>
-<li>✅ Data Types – Exploring primitive types (int, float, char, etc.).</li>
-<li>✅ Input/Output – Taking user input with Scanner & printing output.</li></ul>
+## 🎯 Roadmap (Progress Overview)
 
-<b>🛠️ How to Run : </b>
-<ul>
-<li>Open a terminal in the project folder.</li>
-<li>Compile the program:
-javac FileName.java</li>
-<li>Run the program:
-java FileName</li></ul>
-<br>
-<b>🤝 Contributing : </b>
+### ✅ Completed – Basic Concepts
+This repo already covers all core fundamentals:<br>
+<ul><li>Introduction to Java</li>
+<li>Variables & Data Types</li>
+<li>Input / Output</li>
+<li>Operators & Expressions</li>
+<li>Conditional Statements</li>
+<li>Loops</li>
+<li>Patterns</li>
+<li>Functions / Methods</li>
+<li>Arrays (1D & 2D)</li>
+<li>Strings</li></ul>
+
+### 🔜 Coming Soon – Advanced Concepts
+Fully explained advanced topics will be added soon:<br>
+<ul><li>Sorting Algorithms</li>
+<li>Recursion</li>
+<li>Backtracking</li>
+<li>Object-Oriented Programming (OOP)</li>
+<li>Binary Trees</li>
+<li>Graphs</li>
+<li>Hashing & Collections</li>
+<li>Searching Algorithms</li>
+<li>Advanced Pattern Problems</li></ul>
+
+## 📂 Project Structure
+
+
+
+## 🤝 Contributing :
 <li>Want to add your own examples or improve code formatting?</li>
 <li>Feel free to fork this repo, make changes, and submit a pull request 💡.</li>
-<br>
-<b>🌟 Show Your Support :</b>
+
+
+## 🌟 Show Your Support :
 <li>If you find this repository helpful,
 give it a ⭐ on GitHub and share it with others learning Java! 🚀</li>
